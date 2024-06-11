@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-color: bisque;
+
+}
+.main_cont{
+    
+    justify-content: center;
+    font-size: medium;
+    align-items: center;
+    /* height: 100vh; */
+    display: flex;
+    justify-content: center;
+}
+
+.omlette 
+{
+background-color: white;
+
+height: fit-content;
+width: 600px;
+padding: 20px;
+margin-top:10rem;
+border-radius: 25px;
+text-align: left;
+align-self: center;
+
+
+}
+img
+{
+    border-radius: 25px;
+}
+
+.preparation
+{background-color: rgb(241, 226, 236);
+    padding-left: 50px;
+    
+
+}
+
+.time
+{
+    /* colour:purple; */
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    color: rgb(152, 28, 163);
+    padding-top: 10px;
+
+
+}
+
+.ingredient
+{
+    font-family:sans-serif;
+    font-size: larger;
+    font-weight:bold;
+    color: brown;
+}
+
+.list
+{
+    padding-left: 30px;
+}
+
+
+    .instructions
+    {
+        padding-left: 30px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        color: brown;
+    
+    }
+
+    .nutrition
+    {
+     padding-left: 15px; 
+     margin-top: 10px; 
+     margin-bottom: 10px; 
+    }
+.no{
+color: black;
+}
